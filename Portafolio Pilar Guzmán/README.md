@@ -1,1 +1,1 @@
-La estructura del taller consta de una landing page (`index.html`) y cuatro subpáginas sobre una cátegoria del pueblo (gastronomia, turismo, festividades, historia).
+La estructura del taller consta de un (`index.html`) con estilos y diseños css , con la estructura y contenidos de HTML, con el Class se aplicó para darle un estilo a los diferentes bloques integrando el Section para dividir mi portafolio en partes tales como: Presentación, Habilidades, Certificado, proyecto relevante y contacto 
